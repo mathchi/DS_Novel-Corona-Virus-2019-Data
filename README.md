@@ -48,13 +48,13 @@ This files is obtained from this link https://docs.google.com/spreadsheets/d/e/2
 
 #### Country level datasets
 If you are interested in knowing country level data, please refer to the following Kaggle datasets:
-India - https://www.kaggle.com/sudalairajkumar/covid19-in-india
-South Korea - https://www.kaggle.com/kimjihoo/coronavirusdataset
-Italy - https://www.kaggle.com/sudalairajkumar/covid19-in-italy
-Brazil - https://www.kaggle.com/unanimad/corona-virus-brazil
-USA - https://www.kaggle.com/sudalairajkumar/covid19-in-usa
-Switzerland - https://www.kaggle.com/daenuprobst/covid19-cases-switzerland
-Indonesia - https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
+- India - https://www.kaggle.com/sudalairajkumar/covid19-in-india
+- South Korea - https://www.kaggle.com/kimjihoo/coronavirusdataset
+- Italy - https://www.kaggle.com/sudalairajkumar/covid19-in-italy
+- Brazil - https://www.kaggle.com/unanimad/corona-virus-brazil
+- USA - https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+- Switzerland - https://www.kaggle.com/daenuprobst/covid19-cases-switzerland
+- Indonesia - https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
 
 
 ## Acknowledgements
